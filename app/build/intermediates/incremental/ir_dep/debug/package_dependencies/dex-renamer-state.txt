@@ -1,0 +1,4 @@
+#Fri Sep 23 12:22:55 IST 2022
+base.0=D\:\\project-19_20\\charan\\People's Corner - Copy\\PeoplesCorner\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

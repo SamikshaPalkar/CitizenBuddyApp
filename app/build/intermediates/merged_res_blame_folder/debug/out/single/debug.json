@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\layout_checkstatus_screen.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\layout\\checkstatus_screen.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\menu_user_login.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\menu\\user_login.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_user__registration.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\layout\\activity_user__registration.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_prevcomplaints.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable\\ic_prevcomplaints.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\xml_provider_paths.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_user_login.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\menu_user__registration.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\menu\\user__registration.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_newcomplaint.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable\\ic_newcomplaint.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable\\ic_camera.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable_login.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\layout_tab_screen.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\layout\\tab_screen.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable_start.jpg.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable\\start.jpg"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_complaint.jpg.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable-ldpi\\complaint.jpg"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_1.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable\\img_1.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_splash.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable\\ic_splash.png"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_camera.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\layout_newcomplaint_screen.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\layout\\newcomplaint_screen.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\layout_loading.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Project\\PeoplesCorner\\app\\build\\intermediates\\merged_res\\debug\\drawable_img.png.flat",
+        "source": "E:\\Project\\PeoplesCorner\\app\\src\\main\\res\\drawable\\img.png"
+    }
+]

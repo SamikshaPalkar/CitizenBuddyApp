@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CitizenBuddy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new_complaint_header">Register Complaint</string>
+    <string name="check_complaint_header">Check Complaint Status</string>
+    <string name="dept_id">Enter Complaint Id : </string>
+    <string name="dept_prompt">Choose Department Type</string>
+    <string name="mob_no">Mobile No: </string>
+    <string name="status">Status: </string>
+    <string name="reply">Reply: </string>
+    <string name="comp_desc">Complaint Description: </string>
+    <string name="submit">Submit</string>
+    <string name="checkstatus">Get Status</string>
+
+    <string-array name="department_arrays">
+        <item>GARBAGE</item>
+        <item>WATER</item>
+        <item>ROAD</item>
+        <item>ELECTRICITY</item>
+    </string-array>
+
+    <string name="title_activity_user_login">UserLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user__registration">User_Registration</string>
+
+</resources>

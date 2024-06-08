@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:39:9-48:20
+	android:grantUriPermissions
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:43:13-47
+	android:authorities
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:41:13-86
+	android:exported
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:40:13-67
+manifest
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\aa37a99e0aa1457dd1b89feea0ada8f7\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\6dd3d228407b6fae4dbd6b458f3b70b7\transformed\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\4085477337b80714760259fab22bfa29\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\ae7a1ae83b2bc8e236abfc67e9a959f5\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\9e11b53c3225a765a6821b82b094d3de\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\3119d074b3dbbbe8dac9a833dbdadcf1\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\c1cb30663adbb14a81f173da6cf2380b\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\2ed793bc18e942638626bd7e21ee4e1a\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\2c29661685df81f800027171304915b3\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\d30aa40789b07a03aed543f816234d63\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\ab829797154c6babc03b3ddb62e5f3b4\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\9b82deb0a4674174644dc3e4dc421af6\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\593d8e3ae943a87af00a1e483b5c6072\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\88e6ac9412030734e579ec4630f48d35\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\9e52394dd1aea053866f79e7cb90586f\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\b01a80e75c57c4c5f6e7e24b177937d0\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\7aa0e00726b66570a8172cd7137c106b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\2f9db9854f187fdadb4eb45d1af8d8ed\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\67b2bde34a6014d743c6ce67a0f1df9f\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\6572a253fa6915bbc72d5bb67c6c7cca\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\423686e641dcc0b446cdc57f4bffd4f6\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\fc16511517078fdd73539f86e27a55f2\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\cea894ca3598ee36117afad3a3f8d2ba\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\27cc44d9b953e18d1d75b41a39a1460e\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\4f0cb697e13ac158d16bcd6be0a0b2a0\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\472505b1951002f6ece9ef231ebe5296\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\1b38dfaab7384ff65cd774e259cdf197\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:8:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:9:19-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.INTERNET
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:17:5-53:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\6dd3d228407b6fae4dbd6b458f3b70b7\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\6dd3d228407b6fae4dbd6b458f3b70b7\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\b01a80e75c57c4c5f6e7e24b177937d0\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\b01a80e75c57c4c5f6e7e24b177937d0\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\7aa0e00726b66570a8172cd7137c106b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\7aa0e00726b66570a8172cd7137c106b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\b01a80e75c57c4c5f6e7e24b177937d0\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:21:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:22:9-44
+activity#com.project.peoplescorner.MainActivity
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.project.peoplescorner.TabScreen
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:32:9-47
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:32:19-44
+activity#com.project.peoplescorner.ExistingComplaints
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:33:19-53
+activity#com.project.peoplescorner.NewComplaint
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:34:19-47
+activity#com.project.peoplescorner.UserLogin
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:36:9-107
+	android:label
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:36:45-94
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:36:19-44
+activity#com.project.peoplescorner.User_Registration
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:37:9-123
+	android:label
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:37:53-110
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:37:19-52
+activity#com.project.peoplescorner.CameraPreview
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:50:9-60
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:50:19-48
+uses-library#org.apache.http.legacy
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:52:9-87
+	android:required
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:52:61-85
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:52:23-60
+uses-sdk
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\aa37a99e0aa1457dd1b89feea0ada8f7\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\aa37a99e0aa1457dd1b89feea0ada8f7\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\6dd3d228407b6fae4dbd6b458f3b70b7\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\6dd3d228407b6fae4dbd6b458f3b70b7\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\4085477337b80714760259fab22bfa29\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\4085477337b80714760259fab22bfa29\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\ae7a1ae83b2bc8e236abfc67e9a959f5\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\ae7a1ae83b2bc8e236abfc67e9a959f5\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\9e11b53c3225a765a6821b82b094d3de\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\9e11b53c3225a765a6821b82b094d3de\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\3119d074b3dbbbe8dac9a833dbdadcf1\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\3119d074b3dbbbe8dac9a833dbdadcf1\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\c1cb30663adbb14a81f173da6cf2380b\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\c1cb30663adbb14a81f173da6cf2380b\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\2ed793bc18e942638626bd7e21ee4e1a\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\2ed793bc18e942638626bd7e21ee4e1a\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\2c29661685df81f800027171304915b3\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\2c29661685df81f800027171304915b3\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\d30aa40789b07a03aed543f816234d63\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\d30aa40789b07a03aed543f816234d63\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\ab829797154c6babc03b3ddb62e5f3b4\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\ab829797154c6babc03b3ddb62e5f3b4\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\9b82deb0a4674174644dc3e4dc421af6\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\9b82deb0a4674174644dc3e4dc421af6\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\593d8e3ae943a87af00a1e483b5c6072\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\593d8e3ae943a87af00a1e483b5c6072\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\88e6ac9412030734e579ec4630f48d35\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\88e6ac9412030734e579ec4630f48d35\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\9e52394dd1aea053866f79e7cb90586f\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\9e52394dd1aea053866f79e7cb90586f\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\b01a80e75c57c4c5f6e7e24b177937d0\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\b01a80e75c57c4c5f6e7e24b177937d0\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\7aa0e00726b66570a8172cd7137c106b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\7aa0e00726b66570a8172cd7137c106b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\2f9db9854f187fdadb4eb45d1af8d8ed\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\2f9db9854f187fdadb4eb45d1af8d8ed\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\67b2bde34a6014d743c6ce67a0f1df9f\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\67b2bde34a6014d743c6ce67a0f1df9f\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\6572a253fa6915bbc72d5bb67c6c7cca\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\6572a253fa6915bbc72d5bb67c6c7cca\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\423686e641dcc0b446cdc57f4bffd4f6\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\423686e641dcc0b446cdc57f4bffd4f6\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\fc16511517078fdd73539f86e27a55f2\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\fc16511517078fdd73539f86e27a55f2\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\cea894ca3598ee36117afad3a3f8d2ba\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\cea894ca3598ee36117afad3a3f8d2ba\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\27cc44d9b953e18d1d75b41a39a1460e\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\27cc44d9b953e18d1d75b41a39a1460e\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\4f0cb697e13ac158d16bcd6be0a0b2a0\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\4f0cb697e13ac158d16bcd6be0a0b2a0\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\472505b1951002f6ece9ef231ebe5296\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\472505b1951002f6ece9ef231ebe5296\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\1b38dfaab7384ff65cd774e259cdf197\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Samiksha Palkar\.gradle\caches\transforms-3\1b38dfaab7384ff65cd774e259cdf197\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:44:13-47:25
+	android:resource
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:46:17-55
+	android:name
+		ADDED from E:\Project\PeoplesCorner\app\src\main\AndroidManifest.xml:45:17-67

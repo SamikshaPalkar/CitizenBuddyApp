@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ChintanParekh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Project_data\Yuvraj\Android Apps\PeoplesCorner1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5e00be216192c618a6534afd05d8e90dc1d967b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChintanParekh\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.4.1.2\64950d33e2d3095cc831b414063bea45524103d4\httpclient-4.4.1.2.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="64950d33e2d3095cc831b414063bea45524103d4">
+        <dex dex="E:\Project_data\Yuvraj\Android Apps\PeoplesCorner1\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.2_4e792195de96782eb53c702fb5ba491d614fc2c9.jar" />
+    </item>
+
+</items>

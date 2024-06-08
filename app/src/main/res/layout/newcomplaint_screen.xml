@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background=" #c1f0f0">
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:layout_margin="20dp">
+
+            <TextView
+                android:id="@+id/lbHeader"
+                android:text="@string/new_complaint_header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/lbdeptid"
+                android:text="Complaint Department"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textSize="20dp"
+                />
+
+            <Spinner
+                android:id="@+id/spdeptid"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:entries="@array/department_arrays"
+                android:prompt="@string/dept_prompt"
+                android:layout_marginTop="15dp"/>
+
+            <TextView
+                android:id="@+id/lbcompDesc"
+                android:text="@string/comp_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/edtcompDesc"
+                android:singleLine="false"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginTop="15dp"/>
+
+            <ImageButton
+                android:id="@+id/btnImage"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ic_camera"
+                android:layout_marginTop="15dp"/>
+
+            <Button
+                android:id="@+id/btnSubmit"
+                android:layout_centerHorizontal="true"
+                android:text="@string/submit"
+                android:layout_height="wrap_content"
+                android:layout_width="100dp"
+                android:layout_marginTop="15dp"
+                android:background="#ffff33"/>
+
+        </LinearLayout>
+    
+</RelativeLayout>
+    
+</ScrollView>
